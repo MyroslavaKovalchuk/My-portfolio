@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <People_list>Person1</People_list>
+    <People_list>
+        <iD>123</iD>
+        <NAME>Mira</NAME>
+        <City>Chernivtsi</City>
+        <Address>
+            <street>Chernivtsi</street>
+            <house_nomber>1</house_nomber>
+            <flat>12</flat>
+        </Address>
+        <Contacts>
+            <phone_number>380977775576</phone_number>
+            <email>mira@ukr.net</email>
+            <skype>mira.kov</skype>
+        </Contacts>
+    </People_list>
+    <People_list>Person2</People_list>
+    <People_list>
+        <iD>124</iD>
+        <NAME>Maksym</NAME>
+        <City>Chernivtsi</City>
+        <Address>
+            <street>Holovna</street>
+            <house_nomber>20</house_nomber>
+            <flat>11</flat>
+        </Address>
+        <Contacts>
+            <phone_number>380999999955</phone_number>
+            <email>maks@ukr.net</email>
+            <skype />
+        </Contacts>
+    </People_list>
+    <People_list>Person3</People_list>
+    <People_list>
+        <iD>125</iD>
+        <NAME>Sasha</NAME>
+        <City>Kyiv</City>
+        <Address>
+            <street>Nezaleshnosti</street>
+            <house_nomber>5</house_nomber>
+            <flat />
+        </Address>
+        <Contacts>
+            <phone_number>380507026825</phone_number>
+            <email>sasha15@ukr.net</email>
+            <skype>sashka_ok</skype>
+        </Contacts>
+    </People_list>
+    <People_list>Person4</People_list>
+    <People_list>
+        <iD>126</iD>
+        <NAME>Muza</NAME>
+        <City>Kyiv</City>
+        <Address>
+            <street>Chornovola</street>
+            <house_nomber>1</house_nomber>
+            <flat>8</flat>
+        </Address>
+        <Contacts>
+            <phone_number>380505050505</phone_number>
+            <email>muza86@gmail.com</email>
+            <skype>muza.rich</skype>
+        </Contacts>
+    </People_list>
+</root>
