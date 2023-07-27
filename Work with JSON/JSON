@@ -1,0 +1,68 @@
+{
+  "People_list": [
+    "Person1",
+    {
+      "iD": "123",
+      "NAME": "Mira",
+      "City": "Chernivtsi",
+      "Address": {
+        "street": "Chernivtsi",
+        "house_nomber": "1",
+        "flat": "12"
+      },
+      "Contacts": {
+        "phone_number": "380977775576",
+        "email": "mira@ukr.net",
+        "skype": "mira.kov"
+      }
+    },
+    "Person2",
+    {
+      "iD": "124",
+      "NAME": "Maksym",
+      "City": "Chernivtsi",
+      "Address": {
+        "street": "Holovna",
+        "house_nomber": "20",
+        "flat": "11"
+      },
+      "Contacts": {
+        "phone_number": "380999999955",
+        "email": "maks@ukr.net",
+        "skype": null
+      }
+    },
+    "Person3",
+    {
+      "iD": "125",
+      "NAME": "Sasha",
+      "City": "Kyiv",
+      "Address": {
+        "street": "Nezaleshnosti",
+        "house_nomber": "5",
+        "flat": null
+      },
+      "Contacts": {
+        "phone_number": "380507026825",
+        "email": "sasha15@ukr.net",
+        "skype": "sashka_ok"
+      }
+    },
+    "Person4",
+    {
+      "iD": "126",
+      "NAME": "Muza",
+      "City": "Kyiv",
+      "Address": {
+        "street": "Chornovola",
+        "house_nomber": "1",
+        "flat": "8"
+      },
+      "Contacts": {
+        "phone_number": "380505050505",
+        "email": "muza86@gmail.com",
+        "skype": "muza.rich"
+      }
+    }
+  ]
+}
