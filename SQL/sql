@@ -1,0 +1,9 @@
+SELECT employee_no, first_name, last_name, hire_date FROM employees order by hire_date DESC 
+SELECT first_name, last_name, birth_date FROM employees where birth_date > '1960-01-01'
+SELECT first_name, last_name, birth_date FROM employees where first_name like 'Ma%'
+SELECT employee_no, city FROM employeeTerritories where city IN ('Kyiv', 'Dnipro', 'Lviv')
+4.2. SELECT employee_no, city FROM employeeTerritories where city = 'Kyiv' or city = 'Dnipro' or city = 'Lviv'
+SELECT COUNT(title) as 'Total Engineer' FROM titles t where title = 'Engineer'
+SELECT count (employee_no), city FROM employeeTerritories group by city having count (employee_no) > 10
+SELECT employees.first_name, employees.last_name, titles.title from employees join titles on employees.employee_no = titles.employee_no
+SELECT employees.first_name, employees.last_name, salaries.salary from employees join salaries on employees.employee_no = salaries.employee_no
