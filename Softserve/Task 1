@@ -1,0 +1,21 @@
+Search for a Book by Title
+
+  As a user I want to be able to use the search field so that I can find a book by its title
+
+  Scenario: User searches for a book by title
+    Given the user is on the book store website
+    When the user enters "Catching fire" into the search field
+    And the user submits the search query
+    Then the search results page should be displayed
+    And the search results should include "Catching fire "
+
+Search for a Book by Author
+
+  As a user I want to be able to use the search field so that I can find a book by its author
+
+  Scenario: User searches for a book by author
+    Given the user is on the book store website
+    When the user enters "Christina Lauren" into the search field
+    And the user submits the search query
+    Then the search results page should be displayed
+    And the search results should include "Christina Lauren"
