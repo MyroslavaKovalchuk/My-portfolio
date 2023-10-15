@@ -1,0 +1,45 @@
+Testing Types (Search Functionality) 
+
+1. Functional Testing
+Task: Test Search functionality
+Functional Testing Procedure: Test the capability of the search functionality (search by title, search by author, and searching for non-existent books).
+
+2. Smoke Testing
+Task: Test the functionality of the search feature
+Smoke Testing Procedure: Test the basic functionality of the search feature using positive test cases (main functionality).
+
+3. UI Testing
+Task: Test the ease of use of the Search functionality
+UI Testing Procedure: Assess the user-friendliness of the search functionality, including factors such as colors, layout, and size.
+
+4. Performance Testing
+Task: Test the speed of the page loading with search results
+Performance Testing Procedure: Evaluate the loading speed of the page with search results.
+
+5. Stress Testing
+Task: Test the search functionality under heavy user load
+Stress Testing Procedure: Simulate a high volume of users utilizing the search functionality to evaluate system performance under stress.
+
+6. Localisation Testing
+Task: Test the translation of the placeholder in different languages
+Localisation Testing Procedure: Verify the accuracy of placeholder translations when selecting different languages.
+
+7. Regression Testing
+Task: Test the Search functionality after fixing issues related to functionality
+Regression Testing Procedure: Verify the functionality of the search feature after resolving issues related to its performance.
+
+8. Usability Testing
+Task: Evaluate the ease of using the Search functionality
+Usability Testing Procedure: Determine if users can easily understand how to use the search functionality on the website.
+
+9. Security Testing
+Task: Assess the security of the Search functionality
+Security Testing Procedure: Identify and address potential security risks associated with the use of the search function.
+
+10. Accessibility Testing
+Task: Assess the usability of the Search functionality for people with disabilities
+Accessibility Testing Procedure: Evaluate if it is possible to enter a search query using voice input, ensuring accessibility.
+
+11. Compatibility Testing
+Task: Test the compatibility of the Search functionality across different browsers
+Compatibility Testing Procedure: Verify the functionality of the search feature in various web browsers.
