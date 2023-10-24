@@ -1,0 +1,38 @@
+Date Time
+24.10.2023 13:45
+
+Severity
+Minor
+
+Priority
+Low
+
+Environment:
+OS: [Windows 10 x64]
+Browser [Google Chrome Версія 117.0.5938.149]
+Reproducible: always.
+Build found: (e.g. tag)
+
+Pre-conditions
+User is on the site
+
+Steps to Reproduce
+Steps to reproduce the behavior:
+
+Go to the site https://bookcart.azurewebsites.net/.
+Click on the "Search" field.
+Pay attentian to the "Search" field.
+Actual result
+The search button is missing next to the search field.
+
+Expected result
+The search button is available next to the search field.
+
+**Screenshots**
+![391c7-clip-52kb](https://github.com/asiazhydkova/Yellow-3/assets/140276105/c14ec931-36ad-4451-b12b-cb17a430b85b)
+
+**Postconditions**
+
+**User story and test case links**
+
+**Labels to be added** "Bug", Priority ("Minor "), Severity ("Low"), Type ("Functional").
