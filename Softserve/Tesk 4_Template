@@ -1,0 +1,27 @@
+Checking the "Search" field 
+[TC-ID] : TC005
+
+Description
+Checking the "Search" field on the web application using the valid and invalid query
+
+Precondition
+The main page is opened https://bookcart.azurewebsites.net/
+
+Priority
+Medium
+
+Input data
+Valid query = Catching fire
+Invalid query = Catching water
+
+Test Steps
+Step No.	Step description	Expected result
+1.	Click on the "Search" field and start typing	The placeholder is disappeared on the "Search" field
+2.	Enter the valid query on the "Search" field and click Enter	The page with searching results is opened
+3.	Enter the invalid query on the "Search" field and click Enter	The page with the "No books found" text is opened
+
+Expected Result
+The user can find the item he needs on the web application
+
+Requirement
+Link for corresponding requirements #5
